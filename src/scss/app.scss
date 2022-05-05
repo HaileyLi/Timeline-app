@@ -1,0 +1,17 @@
+@import "./variables.scss";
+@import "./containers/timeline.scss";
+@import "./containers/content.scss";
+
+* {
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+  font-family: "Ubuntu", sans-serif;
+}
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}

@@ -1,0 +1,50 @@
+// theme colors
+$blue-500: #101447;
+$blue-400: #3f51b5;
+$blue-200: #2973fd;
+$blue-150: #3a86e8;
+$blue-100: #c3dbf3;
+$blue-50: #ebf3fb;
+
+$red-100: #f68770;
+$white: white;
+$light-grey: #cfcfcf;
+$mid-grey: #a8a8a8;
+$dark-grey: rgb(59, 59, 59);
+$black: black;
+
+// color sets
+$red-set: #ef803c;
+$yellow-set: #fbbb3f;
+$blue-set: #54cff0;
+
+// color set hover
+$red-set-hover: #e97730;
+$yellow-set-hover: #ebc632;
+$blue-set-hover: #2ebfe7;
+
+//target color
+$year-line: $light-grey;
+$cover-overlay: $white;
+$time-line: $blue-500;
+$today-line: $blue-200;
+$popup-line-body: $blue-500;
+$popup-text: $white;
+$disabled-legend-hover-before: $light-grey;
+$disabled-legend-hover-after: $mid-grey;
+$enabled-legend-hover-before: $dark-grey;
+$enabled-legend-hover-after: $black;
+$anim-arrow-color: $black;
+
+$toggle-switch-disabled: $mid-grey;
+$toggle-switch-enabled: $blue-400;
+$toggle-switch: $white;
+
+$main-page-bg: $yellow-set;
+$main-page-small-text: #d07b00;
+
+$edit-button-bg: $blue-400;
+
+//other vars
+$arrow-ani-speed: 2s;
+$arrow-ani-delay: 1s;
