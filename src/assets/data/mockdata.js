@@ -140,7 +140,7 @@
             "Developed secure website as a full-stack developer using ReactJS, SASS, Redux, JAVA Spring Boot, Oracle DB for annuity management and simulating calculator for customers.",
             "Implemented Rest API by using JAVA Spring Boot and deployed using cloud services."
         ],
-        "companyLogo": require("../img/pic2016/work/OICRlogo2.png")
+        "companyLogo": require("../img/pic2021/fidelity.jpeg")
     },
     {
         "id": "w8",
@@ -245,6 +245,530 @@
             {
                 "imgSrc": require("../img/pic2021/thanksh.jpg"),
                 "description": "Procreate"
+            }
+        ]
+    },
+    {
+        "id": "j3",
+        "date": "20161101",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "Integrated logo and UI design",
+        "imgList": [
+            {
+                "imgSrc": require("../img/pic2016/work/FORM/01-Project-creation-form-section1.jpg"),
+                "description": "Form Design"
+            },{
+                "imgSrc": require("../img/pic2016/work/FORM/02-Project-creation-form-section2.jpg"),
+                "description": "Form Design"
+            },{
+                "imgSrc": require("../img/pic2016/work/FORM/03-Project-creation-form-section3.jpg"),
+                "description": "Form Design"
+            },{
+                "imgSrc": require("../img/pic2016/work/FORM/04-Project-creation-form-section4.jpg"),
+                "description": "Form Design"
+            },{
+                "imgSrc": require("../img/pic2016/work/FORM/05-Project-creation-form-section5.jpg"),
+                "description": "Form Design"
+            },{
+                "imgSrc": require("../img/pic2016/work/FORM/06-Project-creation-form-review1.jpg"),
+                "description": "Form Design"
+            },{
+                "imgSrc": require("../img/pic2016/work/FORM/07-Project-creation-form-review2.jpg"),
+                "description": "Form Design"
+            },{
+                "imgSrc": require("../img/pic2016/work/FORM/08-Project-creation-form-submission.jpg"),
+                "description": "Form Design"
+            },{
+                "imgSrc": require("../img/pic2016/work/OICR/oicr-facit.png"),
+                "description": "Logo Integration"
+            },{
+                "imgSrc": require("../img/pic2016/work/OICR/oicr-facit1.jpg"),
+                "description": "Logo Integration"
+            },
+        ]
+    },
+    {
+        "id": "j4",
+        "date": "20170601",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "HBT Team",
+        "imgList": [
+            
+            {
+                "imgSrc": require("../img/pic2017/hbtteam/hbt-01.jpg"),
+                "description": "Photoshop"
+            },
+            {
+                "imgSrc": require("../img/pic2017/hbtteam/hbt-02.jpg"),
+                "description": "Photoshop"
+            },
+            {
+                "imgSrc": require("../img/pic2017/hbtteam/hbt-03.jpg"),
+                "description": "Photoshop"
+            },
+            {
+                "imgSrc": require("../img/pic2017/hbtteam/hbt-04.jpg"),
+                "description": "Photoshop"
+            },
+            {
+                "imgSrc": require("../img/pic2017/hbtteam/hbt-05.jpg"),
+                "description": "Photoshop"
+            },
+            {
+                "imgSrc": require("../img/pic2017/hbtteam/hbt-06.jpg"),
+                "description": "Photoshop"
+            },
+            {
+                "imgSrc": require("../img/pic2017/ui_china.jpg"),
+                "description": "Photoshop"
+            }
+        ]
+    },
+    {
+        "id": "j5",
+        "date": "20170701",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "Tri-tri Game",
+        "imgList": [
+            
+            {
+                "imgSrc": require("../img/pic2017/tritri/screen1.png"),
+                "description": "Game UI"
+            },
+            {
+                "imgSrc": require("../img/pic2017/tritri/screen2.png"),
+                "description": "Game UI"
+            },
+            {
+                "imgSrc": require("../img/pic2017/tritri/screen3.png"),
+                "description": "Game UI"
+            },
+            {
+                "imgSrc": require("../img/pic2017/tritri/screen4.png"),
+                "description": "Game UI"
+            },
+            {
+                "imgSrc": require("../img/pic2017/tritri/screen5.png"),
+                "description": "Game UI"
+            },{
+                "imgSrc": require("../img/pic2017/tritri/black-ui.png"),
+                "description": "Game UI"
+            },
+            {
+                "imgSrc": require("../img/pic2017/tritri/tri-guideline.jpg"),
+                "description": "Game UI"
+            }
+        ]
+    },
+    {
+        "id": "j6",
+        "date": "20180501",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "Bujo",
+        "imgList": [
+            {
+                "imgSrc": require("../img/pic2018/bujo/bujo-logo.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-01.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-02.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-03.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-04.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-01.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-05.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-06.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-07.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-08.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-09.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-10.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-11.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-12.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-13.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-14.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-15.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-16.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-17.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-18.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-19.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-20.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-21.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-22.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-23.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-24.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-25.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-26.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-27.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-28.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-29.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-30.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-31.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-32.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-33.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-34.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-35.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-36.jpg"),
+                "description": "BUJO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/bujo/view2-37.jpg"),
+                "description": "BUJO UI"
+            }
+        ]
+    },
+    {
+        "id": "j7",
+        "date": "20180701",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "Dr. Do",
+        "imgList": [
+            {
+                "imgSrc": require("../img/pic2018/do/indexdesign-01.jpg"),
+                "description": "DR. DO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/do/indexdesign-02.jpg"),
+                "description": "DR. DO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/do/indexdesign-03.jpg"),
+                "description": "DR. DO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/do/indexdesign-04.jpg"),
+                "description": "DR. DO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/do/indexdesign-05.jpg"),
+                "description": "DR. DO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/do/indexdesign-06.jpg"),
+                "description": "DR. DO UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/do/indexdesign-07.jpg"),
+                "description": "DR. DO UI"
+            }
+        ]
+    },
+    {
+        "id": "j8",
+        "date": "20180801",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "Sketch",
+        "imgList": [
+            {
+                "imgSrc": require("../img/pic2018/drawings/drawing1.jpeg"),
+                "description": "Sketch"
+            },
+            {
+                "imgSrc": require("../img/pic2018/drawings/drawing2.jpeg"),
+                "description": "Sketch"
+            },
+            {
+                "imgSrc": require("../img/pic2018/drawings/drawing3.jpeg"),
+                "description": "Sketch"
+            },
+            {
+                "imgSrc": require("../img/pic2018/drawings/drawing4.jpeg"),
+                "description": "Sketch"
+            },
+            {
+                "imgSrc": require("../img/pic2018/drawings/drawing5.jpeg"),
+                "description": "Sketch"
+            }
+        ]
+    },
+    {
+        "id": "j9",
+        "date": "20181101",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "Zone",
+        "imgList": [
+            {
+                "imgSrc": require("../img/pic2018/zone/ss01.png"),
+                "description": "Zone UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/zone/ss02.png"),
+                "description": "Zone UI"
+            },{
+                "imgSrc": require("../img/pic2018/zone/ss03.png"),
+                "description": "Zone UI"
+            },{
+                "imgSrc": require("../img/pic2018/zone/ss04.png"),
+                "description": "Zone UI"
+            },{
+                "imgSrc": require("../img/pic2018/zone/ss05.png"),
+                "description": "Zone UI"
+            },{
+                "imgSrc": require("../img/pic2018/zone/ss06.png"),
+                "description": "Zone UI"
+            },
+            {
+                "imgSrc": require("../img/pic2018/zone/ss07.png"),
+                "description": "Zone UI"
+            },{
+                "imgSrc": require("../img/pic2018/zone/ss08.png"),
+                "description": "Zone UI"
+            },{
+                "imgSrc": require("../img/pic2018/zone/ss09.png"),
+                "description": "Zone UI"
+            },{
+                "imgSrc": require("../img/pic2018/zone/ss10.png"),
+                "description": "Zone UI"
+            },{
+                "imgSrc": require("../img/pic2018/zone/ss11.png"),
+                "description": "Zone UI"
+            },{
+                "imgSrc": require("../img/pic2018/zone/year-zone.jpg"),
+                "description": "Zone UI"
+            },{
+                "imgSrc": require("../img/pic2018/zone/zone-logo.jpg"),
+                "description": "Zone UI"
+            },
+        ]
+    },
+    {
+        "id": "j10",
+        "date": "20190301",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "QuesBank",
+        "imgList": [
+            {
+                "imgSrc": require("../img/pic2019/quesbank/1.jpg"),
+                "description": "Quesbank UI"
+            },
+            {
+                "imgSrc": require("../img/pic2019/quesbank/2.jpg"),
+                "description": "Quesbank UI"
+            },
+            {
+                "imgSrc": require("../img/pic2019/quesbank/3.jpg"),
+                "description": "Quesbank UI"
+            },
+            {
+                "imgSrc": require("../img/pic2019/quesbank/4.jpg"),
+                "description": "Quesbank UI"
+            },
+            {
+                "imgSrc": require("../img/pic2019/quesbank/5.jpg"),
+                "description": "Quesbank UI"
+            }
+        ]
+    },
+    {
+        "id": "j11",
+        "date": "20200201",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "CourseTable",
+        "imgList": [
+            {
+                "imgSrc": require("../img/pic2020/CourseTable/1.jpg"),
+                "description": "Course Table"
+            },
+            {
+                "imgSrc": require("../img/pic2020/CourseTable/2.jpg"),
+                "description": "Course Table"
+            },
+            {
+                "imgSrc": require("../img/pic2020/CourseTable/3.jpg"),
+                "description": "Course Table"
+            },
+            {
+                "imgSrc": require("../img/pic2020/CourseTable/4.jpg"),
+                "description": "Course Table"
+            },
+            {
+                "imgSrc": require("../img/pic2020/CourseTable/5.jpg"),
+                "description": "Course Table"
+            },
+            {
+                "imgSrc": require("../img/pic2020/CourseTable/7.jpg"),
+                "description": "Course Table"
+            },
+            {
+                "imgSrc": require("../img/pic2020/CourseTable/6.gif"),
+                "description": "Course Table"
+            }
+        ]
+    },
+    {
+        "id": "j12",
+        "date": "20200501",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "Wechat Mini Program",
+        "imgList": [
+            {
+                "imgSrc": require("../img/pic2020/brand/logo.png"),
+                "description": "Wechat Mini Program"
+            },
+            {
+                "imgSrc": require("../img/pic2020/brand/1.png"),
+                "description": "Wechat Mini Program"
+            },
+            {
+                "imgSrc": require("../img/pic2020/brand/2.png"),
+                "description": "Wechat Mini Program"
+            },
+            {
+                "imgSrc": require("../img/pic2020/brand/3.png"),
+                "description": "Wechat Mini Program"
+            },
+            {
+                "imgSrc": require("../img/pic2020/brand/4.png"),
+                "description": "Wechat Mini Program"
+            },
+            {
+                "imgSrc": require("../img/pic2020/brand/5.png"),
+                "description": "Wechat Mini Program"
+            },
+            {
+                "imgSrc": require("../img/pic2020/brand/6.png"),
+                "description": "Wechat Mini Program"
+            },
+            {
+                "imgSrc": require("../img/pic2020/brand/7.png"),
+                "description": "Wechat Mini Program"
+            },
+            {
+                "imgSrc": require("../img/pic2020/brand/8.png"),
+                "description": "Wechat Mini Program"
+            },
+            {
+                "imgSrc": require("../img/pic2020/brand/9.png"),
+                "description": "Wechat Mini Program"
+            },
+            {
+                "imgSrc": require("../img/pic2020/brand/10.png"),
+                "description": "Wechat Mini Program"
+            },
+            {
+                "imgSrc": require("../img/pic2020/brand/11.png"),
+                "description": "Wechat Mini Program"
+            },
+            {
+                "imgSrc": require("../img/pic2020/brand/12.png"),
+                "description": "Wechat Mini Program"
             }
         ]
     }

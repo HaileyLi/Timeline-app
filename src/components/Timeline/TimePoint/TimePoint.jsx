@@ -58,6 +58,7 @@ function TimePoint(props) {
     }
     if (startDate) {
       let { year, month } = calcDurationYearMonth(startDate, date);
+      console.log(year, month);
       let resWidth = lengthPerYear * year + lengthPerMonth * month;
       return { width: resWidth + "px", right: "50px" };
     }
@@ -71,13 +72,17 @@ function TimePoint(props) {
     let month;
     if (startMonth > endMonth) {
       month = 12 - startMonth + endMonth;
+      return {
+        year: endYear - startYear - 1,
+        month,
+      };
     } else {
       month = endMonth - startMonth;
+      return {
+        year: endYear - startYear,
+        month,
+      };
     }
-    return {
-      year: endYear - startYear,
-      month,
-    };
   };
 
   const { data, calcDate, selectedTime } = props;

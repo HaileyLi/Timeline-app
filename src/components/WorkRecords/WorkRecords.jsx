@@ -37,7 +37,6 @@ function WorkRecords(props) {
 
   return (
     <div className="work-records-container">
-      <div className="img-container"></div>
       <div className="work-wrapper">
         <div className="work-content-container">
           <div className="left-pane">

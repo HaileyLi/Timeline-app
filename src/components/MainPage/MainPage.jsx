@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import profileImage from "../../assets/img/profile.jpeg";
 
 function MainPage(props) {
   useEffect(() => {
@@ -36,12 +37,7 @@ function MainPage(props) {
           </div>
           <div className="portfolio-container">
             <div className="portfolio-img">
-              <img
-                src={
-                  "https://media-exp1.licdn.com/dms/image/D4E35AQFR14wVSeRUYg/profile-framedphoto-shrink_400_400/0/1650536053162?e=1651856400&v=beta&t=eL4O2cj9t4CnIbEgbKH1lIubg74oYbFCobMPBZEQdoU"
-                }
-                alt=""
-              />
+              <img src={profileImage} alt="" />
             </div>
           </div>
         </div>
