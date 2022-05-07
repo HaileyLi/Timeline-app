@@ -3,6 +3,7 @@ import ImageGallery from "../../components/ImageGallery";
 import MainPage from "../../components/MainPage/MainPage";
 import StudyRecords from "../../components/StudyRecords";
 import WorkRecords from "../../components/WorkRecords";
+import VideoGallery from "../../components/VideoGallery";
 
 function ContentContainer(props) {
   // use to fetch Data, work as componentDidMount
@@ -16,6 +17,7 @@ function ContentContainer(props) {
       {cateCode === "WK" && <WorkRecords data={data} />}
       {cateCode === "ST" && <StudyRecords data={data} />}
       {cateCode === "OT" && <ImageGallery data={data} />}
+      {cateCode === "VD" && <VideoGallery data={data} />}
       {cateCode === undefined && <MainPage editMode={editMode} />}
     </div>
   );

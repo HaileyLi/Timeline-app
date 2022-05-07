@@ -16,6 +16,7 @@ function WorkRecords(props) {
     paragraphContent,
     companyLogo,
     bgImage,
+    links,
   } = data;
 
   const getDate = (date) => {
@@ -33,27 +34,42 @@ function WorkRecords(props) {
   };
 
   let companyLogoSrc = companyLogo.default;
-  // let bgImageSrc = bgImage.default;
+  let bgImageSrc = bgImage.default;
 
   return (
     <div className="work-records-container">
       <div className="work-wrapper">
-        <div className="work-content-container">
-          <div className="left-pane">
-            <div className="company-logo">
-              <img src={companyLogoSrc} />
+        <div className="front-card">
+          <div className="work-content-container">
+            <div className="left-pane">
+              <div className="company-logo">
+                <img src={companyLogoSrc} />
+              </div>
+            </div>
+            <div className="right-pane">
+              <p className="position">{position}</p>
+              <p className="company">{company}</p>
+              <p className="duration">{getDuration(date, endDate)}</p>
+              <ul className="bullet-points">
+                {bulletPoints.map((item) => (
+                  <li key={`${item}_key`}>{item}</li>
+                ))}
+              </ul>
             </div>
           </div>
-          <div className="right-pane">
-            <p className="position">{position}</p>
-            <p className="company">{company}</p>
-            <p className="duration">{getDuration(date, endDate)}</p>
-            <ul className="bullet-points">
-              {bulletPoints.map((item) => (
-                <li key={`${item}_key`}>{item}</li>
-              ))}
-            </ul>
+        </div>
+        <div className="back-card">
+          <div className="company-image">
+            <img src={bgImageSrc} />
           </div>
+          {links.map((item) => (
+            <>
+              <p>{item.desc}</p>
+              <a href={item.link} target="_blank">
+                {item.link}
+              </a>
+            </>
+          ))}
         </div>
       </div>
     </div>

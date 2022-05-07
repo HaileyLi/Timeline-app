@@ -14,6 +14,7 @@ function PointPopup(props) {
     date,
     endDate,
     startDate,
+    link,
   } = data || {};
   const timelinePopup = useRef(null);
   const [clientRect, setClientRect] = useState({});
@@ -75,7 +76,14 @@ function PointPopup(props) {
             <p className="position">{position}</p>
           </div>
         )}
-        {category === "Project" && <p>{brief}</p>}
+        {category === "Project" && (
+          <>
+            <p>{brief}</p>
+            <a className="proj-link" href={link} target="_blank">
+              {link}
+            </a>
+          </>
+        )}
       </div>
     </div>
   );

@@ -43,6 +43,9 @@ function TimePoint(props) {
       case "OT":
         pointColor = "type-3";
         break;
+      case "VD":
+        pointColor = "type-3";
+        break;
       default:
     }
     return pointColor;
@@ -58,7 +61,6 @@ function TimePoint(props) {
     }
     if (startDate) {
       let { year, month } = calcDurationYearMonth(startDate, date);
-      console.log(year, month);
       let resWidth = lengthPerYear * year + lengthPerMonth * month;
       return { width: resWidth + "px", right: "50px" };
     }

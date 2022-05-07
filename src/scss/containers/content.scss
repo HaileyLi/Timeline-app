@@ -1,5 +1,5 @@
 .content-container {
-  background-color: #101447;
+  background-color: #fff;
   overflow-y: scroll;
   overflow-x: hidden;
   flex: 1;
@@ -150,15 +150,6 @@
       width: 100%;
       height: 200px;
     }
-    .work-content-container {
-      background-color: #fff;
-      width: calc(100% - 200px);
-      padding: 30px 40px;
-      box-shadow: 0 6px 10px 0 rgb(0 0 0 / 30%);
-      border-radius: 6px;
-      margin: 0 60px;
-      margin-top: 30px;
-    }
     .work-content-container .right-pane {
       width: 80%;
     }
@@ -190,6 +181,10 @@
 
     .work-wrapper {
       position: relative;
+      height: 100%;
+
+      transition: transform 0.6s;
+      transform-style: preserve-3d;
     }
     .company-logo img {
       width: 100%;
@@ -357,5 +352,47 @@
     height: 30px;
     transition: 0.5s;
     transform: rotate(180deg);
+  }
+}
+
+.work-records-container:hover .work-wrapper {
+  transform: rotateY(180deg);
+}
+
+.front-card {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.back-card {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  transform: rotateY(180deg);
+}
+
+.front-card,
+.back-card {
+  background-color: #fff;
+  width: calc(100% - 200px);
+  padding: 30px 40px;
+  box-shadow: 0 6px 10px 0 rgb(0 0 0 / 30%);
+  border-radius: 6px;
+  margin: 0 60px;
+  margin-top: 30px;
+  height: auto;
+  min-height: 250px;
+  overflow-y: scroll;
+  max-height: 400px;
+}
+
+.company-image {
+  img {
+    width: 100%;
   }
 }

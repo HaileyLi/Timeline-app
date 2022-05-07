@@ -44,7 +44,12 @@
             "Participated in whole web development procedure, including user persona analysis, user scenario analysis, sitemap design, wireframe design\, mockup design and static website development and integration.",
             "Scheduled and delivered co-op training presentations and documentation."
         ],
-        "companyLogo": require("../img/pic2016/work/OICRlogo2.png")
+        "companyLogo": require("../img/pic2016/work/OICRlogo2.png"),
+        "bgImage":require("../img/pic2016/work/oicrpic.jpg"),
+        "links":[
+            {"desc":"Helped design and develop",
+        "link":"https://cancercollaboratory.org/cloud-computing-big-data-genomics"}
+        ]
     },
     {
         "id": "w2",
@@ -59,7 +64,10 @@
             "Implemented website changes by using HTML, CSS, AJAX, Vue.JS, Visual Studio.",
             "Researched on user experience optimization and analysis by building data models and visualizations."
         ],
-        "companyLogo": require("../img/pic2017/work/acc2.png")
+        "companyLogo": require("../img/pic2017/work/acc2.png"),
+        "bgImage":require("../img/pic2017/work/accpic.jpg"),
+        "links":[
+        ]
     },
     {
         "id": "w3",
@@ -75,7 +83,12 @@
             "Built websites using HTML, SASS, CSS, Javascript, jQuery, JSON, CMS Adobe Experience Manager.",
             "Worked with Accessibility for Ontarians with Disabilities Act (AODA), debugged and implemented features that benefits screen readers."
         ],
-        "companyLogo": require("../img/pic2018/work/gwlpic.png")
+        "companyLogo": require("../img/pic2018/work/gwlpic.png"),
+        "bgImage":require("../img/pic2018/work/gwlimg.jpeg"),
+        "links":[
+            {"desc":"AODA Debugging and Testing",
+        "link":"https://www.greatwestlife.com/you-and-your-family.html"}
+        ]
     },
     {
         "id": "w4",
@@ -92,7 +105,14 @@
             "Handed over WCMS development to clients/users, including documentation, installation, and testing, integration with other system.",
             "Implemented website features using PHP, HTML/CSS/JS, applied and created Drupal patch."
         ],
-        "companyLogo": require("../img/pic2018/work/uwlogo.png")
+        "companyLogo": require("../img/pic2018/work/uwlogo.png"),
+        "bgImage":require("../img/pic2018/work/uwpic.jpg"),
+        "links":[
+            {"desc":"Drupal CMS Feature implements",
+        "link":"https://uwaterloo.ca/"},
+        {"desc":"404 page design",
+    "link":"https://haileyli.github.io/uw_404_notfound/"}
+        ]
     },
     {
         "id": "w5",
@@ -108,7 +128,12 @@
             "Implemented log monitoring application enalbing auto JIRA ticket creation and analysis.",
             "Implemented event management app serves as a platform for users to create, invite, issue emails and surveys, built registration websites, monitor registration counts and view report."
         ],
-        "companyLogo": require("../img/pic2019/work/kennalogo2.png")
+        "companyLogo": require("../img/pic2019/work/kennalogo2.png"),
+        "bgImage":require("../img/pic2019/work/kennapic.jpg"),
+        "links":[
+            {"desc":"Development secure site for customer",
+        "link":"https://www.kenna.ca/"}
+        ]
     },
     {
         "id": "w6",
@@ -125,7 +150,12 @@
             "Developed new customer relationship system using ReactJS, Redux, NodeJS, ExpressJS, MongoDB, REST API.",
             "Maintained and troubleshoot EC2 AWS server instance, Godaddy domain services and email hosting, Local Area Networks, Wide Area Networks."
         ],
-        "companyLogo": require("../img/pic2020/settlement.jpg")
+        "companyLogo": require("../img/pic2020/settlement.jpg"),
+        "bgImage":require("../img/pic2020/poster.jpeg"),
+        "links":[
+            {"desc":"Development public sites",
+        "link":"http://www.mudancorp.com/en/index.php"}
+        ]
     },
     {
         "id": "w7",
@@ -140,7 +170,10 @@
             "Developed secure website as a full-stack developer using ReactJS, SASS, Redux, JAVA Spring Boot, Oracle DB for annuity management and simulating calculator for customers.",
             "Implemented Rest API by using JAVA Spring Boot and deployed using cloud services."
         ],
-        "companyLogo": require("../img/pic2021/fidelity.jpeg")
+        "companyLogo": require("../img/pic2021/fidelity.jpeg"),
+        "bgImage":require("../img/pic2021/ins.png"),
+        "links":[
+        ]
     },
     {
         "id": "w8",
@@ -155,7 +188,10 @@
             "Designed and implement mockups/icons/animations by using CSS, HTML, JavaScript, Adobe Photoshop, Illustrator and After Effects",
             "Increased ability of cooperating with colleagues by using Github. Learned to share progress by using Slack, Trello and Invision."
         ],
-        "companyLogo": require("../img/pic2015/packantslogo2.png")
+        "companyLogo": require("../img/pic2015/packantslogo2.png"),
+        "bgImage":require("../img/pic2015/papic.JPG"),
+        "links":[
+        ]
     },
     {
         "id": "j1",
@@ -294,6 +330,7 @@
         "category": "Project",
         "cateCode": "OT",
         "brief": "HBT Team",
+        "link":"https://haileyli.github.io/HBTWEB.github.io/",
         "imgList": [
             
             {
@@ -359,6 +396,10 @@
             },
             {
                 "imgSrc": require("../img/pic2017/tritri/tri-guideline.jpg"),
+                "description": "Game UI"
+            },
+            {
+                "imgSrc": require("../img/pic2017/tritri/stats.png"),
                 "description": "Game UI"
             }
         ]
@@ -563,7 +604,8 @@
                 "imgSrc": require("../img/pic2018/do/indexdesign-07.jpg"),
                 "description": "DR. DO UI"
             }
-        ]
+        ],
+        "link":"https://dr-do-studio.github.io/indexSite/"
     },
     {
         "id": "j8",
@@ -651,6 +693,7 @@
         "category": "Project",
         "cateCode": "OT",
         "brief": "QuesBank",
+        "link":"https://haileyli.github.io/Air-quesbank-demo/",
         "imgList": [
             {
                 "imgSrc": require("../img/pic2019/quesbank/1.jpg"),
@@ -771,7 +814,88 @@
                 "description": "Wechat Mini Program"
             }
         ]
-    }
+    },
+    {
+        "id": "j13",
+        "date": "20210801",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "Birth of this website",
+        "imgList": [
+        ]
+    },
+    {
+        "id": "j14",
+        "date": "20190801",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "Sudoo",
+        "imgList": [
+        ],
+        "link":"https://haileyli.github.io/sudoo/"
+    },
+    {
+        "id": "j15",
+        "date": "20181001",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "DR. DO Grid",
+        "imgList": [
+        ],
+        "link":"https://dr-do-studio.github.io/creative-studio/"
+    },
+    {
+        "id": "j16",
+        "date": "20200801",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "Mock single product",
+        "imgList": [
+        ],
+        "link":"https://haileyli.github.io/SinglePage-Product/"
+    },
+    {
+        "id": "j16",
+        "date": "20200901",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "React mini game",
+        "imgList": [
+        ],
+        "link":"https://haileyli.github.io/vocab-typing-game/"
+    },
+    {
+        "id": "j17",
+        "date": "20201001",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "React 2048",
+        "imgList": [
+        ],
+        "link":"https://hbtgames.github.io/2048ReactGame/"
+    },
+    {
+        "id": "j18",
+        "date": "20161001",
+        "category": "Project",
+        "cateCode": "VD",
+        "brief": "Logo Animation",
+        "imgList": [
+        ]
+    },
+    {
+        "id": "j19",
+        "date": "20170901",
+        "category": "Project",
+        "cateCode": "OT",
+        "brief": "Game Animation",
+        "imgList": [
+            {
+                "imgSrc": require("../img/pic2017/animgif.gif"),
+                "description": "Game Animation"
+            }
+        ]
+    },
 ]
 
 export default mockData
