@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Timeline-app/static/css/main.499f46fb.chunk.css",
-    "main.js": "/Timeline-app/static/js/main.28818ca7.chunk.js",
-    "main.js.map": "/Timeline-app/static/js/main.28818ca7.chunk.js.map",
+    "main.css": "/Timeline-app/static/css/main.a9da5d00.chunk.css",
+    "main.js": "/Timeline-app/static/js/main.993b46b4.chunk.js",
+    "main.js.map": "/Timeline-app/static/js/main.993b46b4.chunk.js.map",
     "runtime-main.js": "/Timeline-app/static/js/runtime-main.d2530bfc.js",
     "runtime-main.js.map": "/Timeline-app/static/js/runtime-main.d2530bfc.js.map",
     "static/js/2.5f743e19.chunk.js": "/Timeline-app/static/js/2.5f743e19.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.9ec31fb0.chunk.js": "/Timeline-app/static/js/3.9ec31fb0.chunk.js",
     "static/js/3.9ec31fb0.chunk.js.map": "/Timeline-app/static/js/3.9ec31fb0.chunk.js.map",
     "index.html": "/Timeline-app/index.html",
-    "static/css/main.499f46fb.chunk.css.map": "/Timeline-app/static/css/main.499f46fb.chunk.css.map",
+    "static/css/main.a9da5d00.chunk.css.map": "/Timeline-app/static/css/main.a9da5d00.chunk.css.map",
     "static/js/2.5f743e19.chunk.js.LICENSE.txt": "/Timeline-app/static/js/2.5f743e19.chunk.js.LICENSE.txt",
     "static/media/01-Project-creation-form-section1.jpg": "/Timeline-app/static/media/01-Project-creation-form-section1.4b42ce0b.jpg",
     "static/media/02-Project-creation-form-section2.jpg": "/Timeline-app/static/media/02-Project-creation-form-section2.3c6d9317.jpg",
@@ -165,7 +165,7 @@
   "entrypoints": [
     "static/js/runtime-main.d2530bfc.js",
     "static/js/2.5f743e19.chunk.js",
-    "static/css/main.499f46fb.chunk.css",
-    "static/js/main.28818ca7.chunk.js"
+    "static/css/main.a9da5d00.chunk.css",
+    "static/js/main.993b46b4.chunk.js"
   ]
 }
