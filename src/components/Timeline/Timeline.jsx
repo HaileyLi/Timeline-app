@@ -65,7 +65,7 @@ function Timeline(props) {
 
     timelineWidth = timelineWidth.substr(0, timelineWidth.length - 2);
     return {
-      width: `${+timelineWidth + 50}px`,
+      width: `${+timelineWidth + 100}px`,
     };
   };
 
